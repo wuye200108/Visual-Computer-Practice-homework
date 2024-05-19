@@ -42,6 +42,6 @@
 
      **结果**：
 
-     ![image-20240519215505559](C:\Users\14249\AppData\Roaming\Typora\typora-user-images\image-20240519215505559.png)
+     ![image-20240519224523878](readme.assets/image-20240519224523878.png)
 
      
